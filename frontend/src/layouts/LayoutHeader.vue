@@ -22,8 +22,8 @@
                 to="/coaches"
                 class="text-neutral-300 hover:text-primary-0 transition-all font-medium text-base leading-[150%] pb-1 border-b-2 border-transparent"
                 active-class="!font-bold !leading-[120%] !border-secondary-800 !text-primary-0"
-                >尋找教練</router-link
-              >
+                >尋找教練
+              </router-link>
             </li>
             <li>
               <router-link
